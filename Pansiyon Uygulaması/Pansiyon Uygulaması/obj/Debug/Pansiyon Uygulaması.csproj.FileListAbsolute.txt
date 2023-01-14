@@ -1,0 +1,75 @@
+C:\Users\AKSAM YAZILIM\source\repos\Pansiyon Uygulaması\Pansiyon Uygulaması\obj\Debug\Pansiyon Uygulaması.csproj.AssemblyReference.cache
+C:\Users\AKSAM YAZILIM\source\repos\Pansiyon Uygulaması\Pansiyon Uygulaması\obj\Debug\Pansiyon_Uygulaması.PansiyonUI.frmPersoneller.resources
+C:\Users\AKSAM YAZILIM\source\repos\Pansiyon Uygulaması\Pansiyon Uygulaması\obj\Debug\Pansiyon_Uygulaması.Properties.Resources.resources
+C:\Users\AKSAM YAZILIM\source\repos\Pansiyon Uygulaması\Pansiyon Uygulaması\obj\Debug\Pansiyon Uygulaması.csproj.GenerateResource.cache
+C:\Users\AKSAM YAZILIM\source\repos\Pansiyon Uygulaması\Pansiyon Uygulaması\obj\Debug\Pansiyon Uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\AKSAM YAZILIM\source\repos\Pansiyon Uygulaması\Pansiyon Uygulaması\bin\Debug\Pansiyon Uygulaması.exe.config
+C:\Users\AKSAM YAZILIM\source\repos\Pansiyon Uygulaması\Pansiyon Uygulaması\bin\Debug\Pansiyon Uygulaması.exe
+C:\Users\AKSAM YAZILIM\source\repos\Pansiyon Uygulaması\Pansiyon Uygulaması\bin\Debug\Pansiyon Uygulaması.pdb
+C:\Users\AKSAM YAZILIM\source\repos\Pansiyon Uygulaması\Pansiyon Uygulaması\obj\Debug\Pansiyon Uygulaması.exe
+C:\Users\AKSAM YAZILIM\source\repos\Pansiyon Uygulaması\Pansiyon Uygulaması\obj\Debug\Pansiyon Uygulaması.pdb
+C:\Users\AKSAM YAZILIM\source\repos\Pansiyon Uygulaması\Pansiyon Uygulaması\obj\Debug\Pansiyon_Uygulaması.PansiyonUI.frmMusteriler.resources
+C:\Users\AKSAM YAZILIM\source\repos\Pansiyon Uygulaması\Pansiyon Uygulaması\obj\Debug\Pansiyon_Uygulaması.PansiyonUI.frmOdalar.resources
+C:\Users\AKSAM YAZILIM\Desktop\Pansiyon Uygulaması\Pansiyon Uygulaması\bin\Debug\Pansiyon Uygulaması.exe.config
+C:\Users\AKSAM YAZILIM\Desktop\Pansiyon Uygulaması\Pansiyon Uygulaması\bin\Debug\Pansiyon Uygulaması.exe
+C:\Users\AKSAM YAZILIM\Desktop\Pansiyon Uygulaması\Pansiyon Uygulaması\bin\Debug\Pansiyon Uygulaması.pdb
+C:\Users\AKSAM YAZILIM\Desktop\Pansiyon Uygulaması\Pansiyon Uygulaması\obj\Debug\Pansiyon Uygulaması.csproj.AssemblyReference.cache
+C:\Users\AKSAM YAZILIM\Desktop\Pansiyon Uygulaması\Pansiyon Uygulaması\obj\Debug\Pansiyon_Uygulaması.PansiyonUI.frmMusteriler.resources
+C:\Users\AKSAM YAZILIM\Desktop\Pansiyon Uygulaması\Pansiyon Uygulaması\obj\Debug\Pansiyon_Uygulaması.PansiyonUI.frmPersoneller.resources
+C:\Users\AKSAM YAZILIM\Desktop\Pansiyon Uygulaması\Pansiyon Uygulaması\obj\Debug\Pansiyon_Uygulaması.PansiyonUI.frmOdalar.resources
+C:\Users\AKSAM YAZILIM\Desktop\Pansiyon Uygulaması\Pansiyon Uygulaması\obj\Debug\Pansiyon_Uygulaması.Properties.Resources.resources
+C:\Users\AKSAM YAZILIM\Desktop\Pansiyon Uygulaması\Pansiyon Uygulaması\obj\Debug\Pansiyon Uygulaması.csproj.GenerateResource.cache
+C:\Users\AKSAM YAZILIM\Desktop\Pansiyon Uygulaması\Pansiyon Uygulaması\obj\Debug\Pansiyon Uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\AKSAM YAZILIM\Desktop\Pansiyon Uygulaması\Pansiyon Uygulaması\obj\Debug\Pansiyon Uygulaması.exe
+C:\Users\AKSAM YAZILIM\Desktop\Pansiyon Uygulaması\Pansiyon Uygulaması\obj\Debug\Pansiyon Uygulaması.pdb
+C:\Users\AKSAM YAZILIM\Desktop\Pansiyon Uygulaması\Pansiyon Uygulaması\obj\Debug\Pansiyon_Uygulaması.PansiyonUI.frmKonaklamalar.resources
+C:\Users\rb_ak\OneDrive\Masaüstü\Pansiyon Uygulaması\Pansiyon Uygulaması\bin\Debug\Pansiyon Uygulaması.exe.config
+C:\Users\rb_ak\OneDrive\Masaüstü\Pansiyon Uygulaması\Pansiyon Uygulaması\bin\Debug\Pansiyon Uygulaması.exe
+C:\Users\rb_ak\OneDrive\Masaüstü\Pansiyon Uygulaması\Pansiyon Uygulaması\bin\Debug\Pansiyon Uygulaması.pdb
+C:\Users\rb_ak\OneDrive\Masaüstü\Pansiyon Uygulaması\Pansiyon Uygulaması\obj\Debug\Pansiyon Uygulaması.csproj.AssemblyReference.cache
+C:\Users\rb_ak\OneDrive\Masaüstü\Pansiyon Uygulaması\Pansiyon Uygulaması\obj\Debug\Pansiyon Uygulaması.csproj.SuggestedBindingRedirects.cache
+C:\Users\rb_ak\OneDrive\Masaüstü\Pansiyon Uygulaması\Pansiyon Uygulaması\obj\Debug\Pansiyon_Uygulaması.PansiyonUI.frmKonaklamalar.resources
+C:\Users\rb_ak\OneDrive\Masaüstü\Pansiyon Uygulaması\Pansiyon Uygulaması\obj\Debug\Pansiyon_Uygulaması.PansiyonUI.frmMusteriler.resources
+C:\Users\rb_ak\OneDrive\Masaüstü\Pansiyon Uygulaması\Pansiyon Uygulaması\obj\Debug\Pansiyon_Uygulaması.PansiyonUI.frmPersoneller.resources
+C:\Users\rb_ak\OneDrive\Masaüstü\Pansiyon Uygulaması\Pansiyon Uygulaması\obj\Debug\Pansiyon_Uygulaması.PansiyonUI.frmOdalar.resources
+C:\Users\rb_ak\OneDrive\Masaüstü\Pansiyon Uygulaması\Pansiyon Uygulaması\obj\Debug\Pansiyon_Uygulaması.Properties.Resources.resources
+C:\Users\rb_ak\OneDrive\Masaüstü\Pansiyon Uygulaması\Pansiyon Uygulaması\obj\Debug\Pansiyon Uygulaması.csproj.GenerateResource.cache
+C:\Users\rb_ak\OneDrive\Masaüstü\Pansiyon Uygulaması\Pansiyon Uygulaması\obj\Debug\Pansiyon Uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\rb_ak\OneDrive\Masaüstü\Pansiyon Uygulaması\Pansiyon Uygulaması\obj\Debug\Pansiyon Uygulaması.exe
+C:\Users\rb_ak\OneDrive\Masaüstü\Pansiyon Uygulaması\Pansiyon Uygulaması\obj\Debug\Pansiyon Uygulaması.pdb
+C:\Users\AKSAM YAZILIM\Desktop\Pansiyon Uygulaması\Pansiyon Uygulaması\obj\Debug\Pansiyon_Uygulaması.PansiyonUI.FrmKullaniciGiris.resources
+C:\Users\AKSAM YAZILIM\Desktop\Pansiyon Uygulaması\Pansiyon Uygulaması\obj\Debug\Pansiyon_Uygulaması.PansiyonUI.Anasayfa.resources
+C:\Users\rb_ak\OneDrive\Masaüstü\Pansiyon Uygulaması\Pansiyon Uygulaması\obj\Debug\Pansiyon_Uygulaması.PansiyonUI.Anasayfa.resources
+C:\Users\rb_ak\OneDrive\Masaüstü\Pansiyon Uygulaması\Pansiyon Uygulaması\obj\Debug\Pansiyon_Uygulaması.PansiyonUI.FrmKullaniciGiris.resources
+C:\Users\rb_ak\source\cc#\Pansiyon Uygulaması\Pansiyon Uygulaması\bin\Debug\Pansiyon Uygulaması.exe.config
+C:\Users\rb_ak\source\cc#\Pansiyon Uygulaması\Pansiyon Uygulaması\bin\Debug\Pansiyon Uygulaması.exe
+C:\Users\rb_ak\source\cc#\Pansiyon Uygulaması\Pansiyon Uygulaması\bin\Debug\Pansiyon Uygulaması.pdb
+C:\Users\rb_ak\source\cc#\Pansiyon Uygulaması\Pansiyon Uygulaması\obj\Debug\Pansiyon Uygulaması.csproj.AssemblyReference.cache
+C:\Users\rb_ak\source\cc#\Pansiyon Uygulaması\Pansiyon Uygulaması\obj\Debug\Pansiyon Uygulaması.csproj.SuggestedBindingRedirects.cache
+C:\Users\rb_ak\source\cc#\Pansiyon Uygulaması\Pansiyon Uygulaması\obj\Debug\Pansiyon_Uygulaması.PansiyonUI.Anasayfa.resources
+C:\Users\rb_ak\source\cc#\Pansiyon Uygulaması\Pansiyon Uygulaması\obj\Debug\Pansiyon_Uygulaması.PansiyonUI.frmKonaklamalar.resources
+C:\Users\rb_ak\source\cc#\Pansiyon Uygulaması\Pansiyon Uygulaması\obj\Debug\Pansiyon_Uygulaması.PansiyonUI.FrmKullaniciGiris.resources
+C:\Users\rb_ak\source\cc#\Pansiyon Uygulaması\Pansiyon Uygulaması\obj\Debug\Pansiyon_Uygulaması.PansiyonUI.frmMusteriler.resources
+C:\Users\rb_ak\source\cc#\Pansiyon Uygulaması\Pansiyon Uygulaması\obj\Debug\Pansiyon_Uygulaması.PansiyonUI.frmPersoneller.resources
+C:\Users\rb_ak\source\cc#\Pansiyon Uygulaması\Pansiyon Uygulaması\obj\Debug\Pansiyon_Uygulaması.PansiyonUI.frmOdalar.resources
+C:\Users\rb_ak\source\cc#\Pansiyon Uygulaması\Pansiyon Uygulaması\obj\Debug\Pansiyon_Uygulaması.Properties.Resources.resources
+C:\Users\rb_ak\source\cc#\Pansiyon Uygulaması\Pansiyon Uygulaması\obj\Debug\Pansiyon Uygulaması.csproj.GenerateResource.cache
+C:\Users\rb_ak\source\cc#\Pansiyon Uygulaması\Pansiyon Uygulaması\obj\Debug\Pansiyon Uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\rb_ak\source\cc#\Pansiyon Uygulaması\Pansiyon Uygulaması\obj\Debug\Pansiyon Uygulaması.exe
+C:\Users\rb_ak\source\cc#\Pansiyon Uygulaması\Pansiyon Uygulaması\obj\Debug\Pansiyon Uygulaması.pdb
+C:\Users\rb_ak\OneDrive\Masaüstü\Hazır dosyalar\Pansiyon Uygulaması\Pansiyon Uygulaması\bin\Debug\Pansiyon Uygulaması.exe.config
+C:\Users\rb_ak\OneDrive\Masaüstü\Hazır dosyalar\Pansiyon Uygulaması\Pansiyon Uygulaması\bin\Debug\Pansiyon Uygulaması.exe
+C:\Users\rb_ak\OneDrive\Masaüstü\Hazır dosyalar\Pansiyon Uygulaması\Pansiyon Uygulaması\bin\Debug\Pansiyon Uygulaması.pdb
+C:\Users\rb_ak\OneDrive\Masaüstü\Hazır dosyalar\Pansiyon Uygulaması\Pansiyon Uygulaması\obj\Debug\Pansiyon Uygulaması.csproj.AssemblyReference.cache
+C:\Users\rb_ak\OneDrive\Masaüstü\Hazır dosyalar\Pansiyon Uygulaması\Pansiyon Uygulaması\obj\Debug\Pansiyon Uygulaması.csproj.SuggestedBindingRedirects.cache
+C:\Users\rb_ak\OneDrive\Masaüstü\Hazır dosyalar\Pansiyon Uygulaması\Pansiyon Uygulaması\obj\Debug\Pansiyon_Uygulaması.PansiyonUI.FrmKonaklamalar.resources
+C:\Users\rb_ak\OneDrive\Masaüstü\Hazır dosyalar\Pansiyon Uygulaması\Pansiyon Uygulaması\obj\Debug\Pansiyon_Uygulaması.PansiyonUI.FrmKullaniciGiris.resources
+C:\Users\rb_ak\OneDrive\Masaüstü\Hazır dosyalar\Pansiyon Uygulaması\Pansiyon Uygulaması\obj\Debug\Pansiyon_Uygulaması.PansiyonUI.FrmMusteriler.resources
+C:\Users\rb_ak\OneDrive\Masaüstü\Hazır dosyalar\Pansiyon Uygulaması\Pansiyon Uygulaması\obj\Debug\Pansiyon_Uygulaması.PansiyonUI.FrmPersoneller.resources
+C:\Users\rb_ak\OneDrive\Masaüstü\Hazır dosyalar\Pansiyon Uygulaması\Pansiyon Uygulaması\obj\Debug\Pansiyon_Uygulaması.PansiyonUI.FrmOdalar.resources
+C:\Users\rb_ak\OneDrive\Masaüstü\Hazır dosyalar\Pansiyon Uygulaması\Pansiyon Uygulaması\obj\Debug\Pansiyon_Uygulaması.Properties.Resources.resources
+C:\Users\rb_ak\OneDrive\Masaüstü\Hazır dosyalar\Pansiyon Uygulaması\Pansiyon Uygulaması\obj\Debug\Pansiyon Uygulaması.csproj.GenerateResource.cache
+C:\Users\rb_ak\OneDrive\Masaüstü\Hazır dosyalar\Pansiyon Uygulaması\Pansiyon Uygulaması\obj\Debug\Pansiyon Uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\rb_ak\OneDrive\Masaüstü\Hazır dosyalar\Pansiyon Uygulaması\Pansiyon Uygulaması\obj\Debug\Pansiyon Uygulaması.exe
+C:\Users\rb_ak\OneDrive\Masaüstü\Hazır dosyalar\Pansiyon Uygulaması\Pansiyon Uygulaması\obj\Debug\Pansiyon Uygulaması.pdb
+C:\Users\rb_ak\OneDrive\Masaüstü\Hazır dosyalar\Pansiyon Uygulaması\Pansiyon Uygulaması\obj\Debug\Pansiyon_Uygulaması.PansiyonUI.FrmAnasayfa.resources
